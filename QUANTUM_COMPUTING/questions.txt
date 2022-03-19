@@ -1,0 +1,5 @@
+Step 1: Hypothesis
+ Which is your prediction how the experiment will turn out. In this case, knowing that it takes 3 transistors to express the number 7 in binary, you predict that expressing the number 17 in binary will require…
+
+Ans= still just 3 transistors
+Hmm. It turns out that 17 in binary is written as 10001. So it takes 5 transistors to express it, even though you could type it on a keyboard in 2 strokes.
